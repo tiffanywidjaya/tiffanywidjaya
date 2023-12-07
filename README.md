@@ -1,4 +1,4 @@
-![8451e74377c686fa3fe7abe78a5a3a49](https://github.com/tiffanywidjaya/tiffanywidjaya/assets/94110553/c79e325b-a262-469e-85db-5d3e69c43d39)
+![8451e74377c686fa3fe7abe78a5a3a49](https://github.com/tiffanywidjaya/tiffanywidjaya/assets/94110553/1255742c-89b7-4ab0-849f-ee93e8cc8572)
 ### Hi there 👋
 <!--
 **tiffanywidjaya/tiffanywidjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
