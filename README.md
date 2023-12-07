@@ -1,19 +1,15 @@
-| ![image](https://github.com/tiffanywidjaya/tiffanywidjaya/assets/94110553/cdb20530-0629-446a-9963-0a6778c6c5cd) |
-|:------------------------------:|
+![ZMIXfR](https://github.com/tiffanywidjaya/tiffanywidjaya/assets/94110553/e9fa2dc1-38be-4548-b2ef-ca49854fb95b)
 
+## Parsley, Sage, Rosemary and Thyme
 
-## On a Breezy Wind upon the Skies,
-## Where whispers of zephyrs paint the highs.
-## Clouds, like poets, in soft embrace,
-## Weave verses of dreams in open space.
-
-Hi there!
+Hi there! 👋🏻
+In the quiet chambers of existence, where echoes of possibility resonate, I find myself navigating the labyrinth of curiosity, seeking threads of wisdom woven into the tapestry of experience. As a result, here I am! I'm Tiffany and is currently a fan of ~~Choi Youngjae~~ Machine Learning and UI/UX is my ~~waifu~~ passion, as designing has been my habit since high school.
 
 <!--
 **tiffanywidjaya/tiffanywidjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on Stayin Alive - Bee Gees
-- 🌱 I’m currently learning on how to Paint My Love - MLTR
-- 👯 I’m looking to collaborate on Never Gonna Give You Up
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning on...
+- 👯 I’m looking to collaborate on...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
