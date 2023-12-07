@@ -3,6 +3,7 @@
 ## Parsley, Sage, Rosemary and Thyme
 
 Hi there! 👋🏻
+
 In the quiet chambers of existence, where echoes of possibility resonate, I find myself navigating the labyrinth of curiosity, seeking threads of wisdom woven into the tapestry of experience. As a result, here I am! I'm Tiffany and is currently a fan of ~~Choi Youngjae~~ Machine Learning and UI/UX is my ~~waifu~~ passion, as designing has been my habit since high school.
 
 <!--
