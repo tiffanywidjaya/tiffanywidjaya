@@ -1,6 +1,6 @@
 ![ZMIXfR](https://github.com/tiffanywidjaya/tiffanywidjaya/assets/94110553/e9fa2dc1-38be-4548-b2ef-ca49854fb95b)
 
-## Parsley, Sage, Rosemary and Thyme
+## Parsley, Sage, Rosemary, and Thyme
 
 Hi there! 👋🏻
 
