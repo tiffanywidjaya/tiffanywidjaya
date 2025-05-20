@@ -4,7 +4,7 @@
 
 Hi there! 👋🏻
 
-In the hushed halls of existence, where whispers of potential reverberate, I find myself traversing the labyrinth of curiosity, in search of strands of sagacity interwoven into the rich tapestry of experience. As a result, here I am! I'm Tiffany and is currently a fan of ~~Choi Youngjae~~ Machine Learning and UI/UX is my passion, as designing has been my habit since high school.
+In the hushed halls of existence, where whispers of potential reverberate, I find myself traversing the labyrinth of curiosity, in search of strands of sagacity interwoven into the rich tapestry of experience. As a result, here I am! I'm Tiffany and is currently a fan of ~~Choi Youngjae~~ Machine Learning and UI/UX, as designing has been my habit since high school.
 
 <picture>
   <source
